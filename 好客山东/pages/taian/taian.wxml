@@ -1,0 +1,7 @@
+<!--pages/taian/taian.wxml-->
+<view class="box">
+<view class="taian">五岳独尊</view>
+<view class="jianjie">泰安因泰山而得名，“泰山安则四海皆安”，寓国泰民安之意，城区位于泰山脚下，依山而建，山城一体。境内的泰山是国家重点风景名胜区，有“五岳之首”、“天下第一山”的美誉，是世界自然与文化遗产。泰安市于1982年被国务院列为第一批对外开放旅游城市。是鲁中地区中心城市之一，中国优秀旅游城市，国家历史文化名城。</view>
+<image src="{{imagesrc}}"></image>
+<view>好好学习 天天向上</view>
+</view>

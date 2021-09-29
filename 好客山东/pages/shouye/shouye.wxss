@@ -1,0 +1,14 @@
+/* pages/shouye/shouye.wxss */
+.shouye{
+  text-align: center;
+  font-size: large;
+}
+.jianjie{
+  font-size: medium;
+  line-height:60rpx ;
+  text-align: justify;
+  text-indent: 50px;
+}
+.a{
+  color: red;
+}

@@ -1,0 +1,16 @@
+/* pages/jinan/jinan.wxss */
+.jinan{
+  text-align: center;
+  font-size: large;
+  line-height: 30px;
+}
+.jianjie{
+  font-size: medium;
+  line-height:60rpx ;
+  text-align: justify;
+  text-indent: 50px;
+  color:blue;
+}
+.a{
+  color: red;
+}

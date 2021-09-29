@@ -1,0 +1,12 @@
+/* pages/yantai/yantai.wxss */
+.yantai{
+text-align: center;
+font-size: large;
+line-height:30px ;
+}
+.jianjie{
+  text-indent: 50px;
+  line-height: 25px;
+  border:2px solid deeppink;
+  padding:10px;
+}

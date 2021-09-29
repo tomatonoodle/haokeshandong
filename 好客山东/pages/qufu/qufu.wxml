@@ -1,0 +1,7 @@
+<!--pages/qufu/qufu.wxml-->
+<view class="box">
+<view class="qufu">孔子故里</view>
+<image src="{{imgsrc}}"></image>
+<view class="jianjie"> 曲阜是孔子的故乡，是黄帝生地、神农故都、商殷故国、周汉鲁都，是东方文化重要发祥地，被誉为“东方圣城”，亦被称为“东方耶路撒冷”。</view>
+<view>好好学习 天天向上</view>
+</view>

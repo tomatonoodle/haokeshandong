@@ -1,0 +1,12 @@
+.taian{
+  text-align: center;
+  line-height: normal;
+  font-size: large;
+}
+.jianjie{
+  text-indent: 50px;
+  line-height: normal;
+  border:5px dashed red;
+  margin-top:15px;
+
+}

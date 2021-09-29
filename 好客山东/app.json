@@ -1,0 +1,52 @@
+{
+  "pages": [
+    "pages/shouye/shouye",
+    "pages/taian/taian",
+    "pages/jinan/jinan",
+    "pages/qufu/qufu",
+    "pages/yantai/yantai"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "好客山东欢迎您",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#000",
+    "selectedColor": "#00f",
+    "list": [
+      {
+        "pagePath": "pages/shouye/shouye",
+        "text": "首页",
+        "iconPath": "/images/首页.png",
+        "selectedIconPath": "/images/首页 (1).png"
+      },
+      {
+        "pagePath": "pages/jinan/jinan",
+        "text": "济南",
+        "iconPath": "/images/凉亭 (1).png",
+        "selectedIconPath": "/images/凉亭 (2).png"
+      },
+      {
+        "pagePath": "pages/qufu/qufu",
+        "text": "曲阜",
+        "iconPath": "/images/庙.png",
+        "selectedIconPath": "/images/庙 (1).png"
+      },
+      {
+        "pagePath": "pages/taian/taian",
+        "text": "泰安",
+        "iconPath": "/images/山 (1).png",
+        "selectedIconPath": "/images/山 (2).png"
+      },
+      {
+        "pagePath": "pages/yantai/yantai",
+        "text": "烟台",
+        "iconPath": "/images/苹果 (1).png",
+        "selectedIconPath": "/images/苹果.png"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}

@@ -1,0 +1,7 @@
+<!--pages/yantai/yantai.wxml-->
+<view class="b">
+<view class="yantai">港城烟台</view>
+<image src="{{i}}"></image>
+<view class="jianjie"> 烟台，山东省辖地级市，是国务院批复确定的中国山东半岛的中心城市，环渤海地区重要的港口城市，是国家历史文化名城。盛产水果，有“烟台苹果，莱阳梨”的流传。</view>
+<view>好好学习 天天向上</view>
+</view>

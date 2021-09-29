@@ -1,0 +1,7 @@
+<!--pages/shouye/shouye.wxml-->
+<view class="box">
+<view class="shouye">齐鲁大地，孔孟之乡</view>
+<image src="{{imgSrc}}"></image>
+<view class="jianjie"> “齐鲁”一名，因于先秦齐、鲁两国。到战国末年，随着民族融合和人文同化的基本完成，齐、鲁两国文化也逐渐融合为一体。因为文化的一体，“齐鲁”形成一个统一的文化圈，由统一的文化圈形成了“齐鲁”的地域概念。</view>
+<view class="a">好好学习 天天向上</view>
+</view>

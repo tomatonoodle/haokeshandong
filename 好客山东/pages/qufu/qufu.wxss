@@ -1,0 +1,11 @@
+/* pages/qufu/qufu.wxss */
+.qufu{
+  text-align: center;
+  font-size: large;
+  line-height:50px;
+}
+.jianjie{
+  color:red;
+  text-indent: 50px;
+  line-height: normal;
+}

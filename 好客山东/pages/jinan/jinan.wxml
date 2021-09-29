@@ -1,0 +1,7 @@
+<!--pages/jinan/jinan.wxml-->
+<view class="box">
+<view class="jinan">好客济南欢迎您</view>
+<view class="jianjie">      济南因境内泉水众多，拥有“七十二名泉”，素有“四面荷花三面柳，一城山色半城湖”的美誉，济南八景闻名于世，是拥有“山、泉、湖、河、城”独特风貌的旅游城市，是国家历史文化名城、首批中国优秀旅游城市，史前文化——龙山文化的发祥地之一。</view>
+<image src="{{imgSrc}}"></image>
+<view class="a">好好学习 天天向上</view>
+</view>
